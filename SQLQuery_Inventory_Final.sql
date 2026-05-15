@@ -1,8 +1,4 @@
--- =============================================
--- SCRIPT FINAL DEFINITIVO - SIN FALLOS
--- =============================================
 
--- 1. ASEGURAR QUE USAMOS LA BASE DE DATOS
 USE master;
 GO
 
@@ -71,11 +67,6 @@ VALUES
 (7, 'E', 10, '2024-01-25'),
 (7, 'S', 2, '2024-02-10');
 GO
-
--- =============================================
--- 5. CONSULTA FINAL PARA VER LAS TABLAS
--- =============================================
-
 SELECT 
     p.Nombre,
     p.Categoria,
