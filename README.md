@@ -1,56 +1,39 @@
-# [Nombre de tu Proyecto]
+# [Project Name: Business Intelligence Inventory Analysis]
 
-![Banner del Proyecto o Logo]([URL_DE_IMAGEN_DE_BANNER_OPCIONAL])
-*Reemplaza `[URL_DE_IMAGEN_DE_BANNER_OPCIONAL]` con el enlace a una imagen de tu proyecto, si tienes.*
+![Project Banner or Logo]([URL_OF_PROJECT_BANNER_IMAGE])
+*Replace `[URL_OF_PROJECT_BANNER_IMAGE]` with the link to an image from your project, if available.
 
-## 📝 Descripción del Proyecto
+## 📝 Project Description
+This project consists of analyzing and optimizing inventory management processes, solving the challenge of working with disorganized, raw, or scattered data. The main purpose is to accurately control stock levels, identify product rotation patterns, detect low-performance items, and reduce unnecessary storage costs. The key value it delivers is the transformation of raw information into reliable, validated, and strategic data, supporting decision-making, automating reporting, and improving overall operational efficiency.
 
-Este proyecto consiste en [describe brevemente el propósito principal del proyecto, el problema que resuelve y el valor que aporta]. Su objetivo es [menciona el objetivo, por ejemplo: optimizar la gestión de inventario, analizar tendencias de ventas, automatizar reportes].
+## ✨ Key Features / Main Results
+*   **[Feature 1]:** Advanced data extraction and preparation using **SQL**, including complex queries, `JOINS` to combine multiple tables and data sources, grouping functions, filters, and custom calculations to consolidate all information into a single reliable database.
+*   **[Feature 2]:** Massive processing and automation with **Python**, used to clean large volumes of data, remove duplicates, fix formatting errors, handle null values, and standardize information efficiently and consistently.
+*   **[Feature 3]:** **Manual Structuring & Quality Validation:** After automated processing, I performed detailed **manual organization, structuring, and validation in Excel**, applying business rules, logical criteria, and human review to ensure every single data point is correct, meaningful, and perfect. **This is my main strength: I do not rely only on code; I verify and perfect every detail personally.**
+*   **[Result/Value Added]:** Design and development of an interactive dashboard in Power BI to visualize key performance indicators, real-time stock control, low-stock alerts, and sales trends. As a result, the analysis enables better inventory planning, helps reduce excess stock costs, and improves product availability for customers.
 
-## ✨ Características Principales / Resultados Clave
+## 🛠️ Technologies Used
+*   **[Technology 1]:** Microsoft Power BI Desktop *(for interactive dashboards, data visualization, metric definitions, and strategic analysis)*
+*   **[Technology 2]:** Microsoft SQL Server *(for database management, advanced queries, data extraction, and using `JOINS` to relate different sources)*
+*   **[Technology 3]:** Microsoft Excel *(for advanced structuring, manual validation, business logic application, and final data quality assurance)*
+*   **[Technology 4]:** Python 3.9 *(Pandas library) *(for automation scripts, ETL processes, mass data cleaning, and transformation)*
+*   *(Additional tools used: Data modeling, DAX measures, and validation techniques)*
 
-*   **[Característica 1]:** [Explica qué hace esta característica. Ej: Dashboard interactivo para visualización de KPIs de inventario.]
-*   **[Característica 2]:** [Explica qué hace esta característica. Ej: Generación de alertas para productos con bajo stock.]
-*   **[Característica 3]:** [Explica qué hace esta característica. Ej: Integración de datos de múltiples fuentes (SQL, Excel).]
-*   **[Resultado/Valor Añadido]:** [Ej: Mejora del 15% en la rotación de inventario o reducción del 10% en costos de almacenamiento.]
+## 📸 Visualizations / Dashboard
+Below are screenshots of the Power BI dashboard and the main visualizations developed for this project:
 
-## 🚀 Tecnologías Utilizadas
+![Screenshot 1]([URL_OF_DASHBOARD_IMAGE_1])
+*General view: Main inventory overview, total stock summary, and general performance metrics.*
 
-*   **[Tecnología 1]:** [Versión si es relevante. Ej: Microsoft Power BI Desktop (para el dashboard interactivo)]
-*   **[Tecnología 2]:** [Versión si es relevante. Ej: Microsoft SQL Server (para la base de datos)]
-*   **[Tecnología 3]:** [Versión si es relevante. Ej: Microsoft Excel (para la limpieza y pre-procesamiento de datos)]
-*   **[Tecnología 4]:** [Versión si es relevante. Ej: Python 3.9 (para scripts de ETL, si usaste)]
-*   [Añade más tecnologías si usaste: Pandas, DAX, etc.]
+![Screenshot 2]([URL_OF_DASHBOARD_IMAGE_2])
+*Detailed analysis: Product rotation, category performance, and stock level control.*
 
-## 📊 Visualizaciones / Dashboard
+*If you have a published version on Power BI Service (if public):*
+*You can interact with the complete dashboard here: [LINK_TO_POWER_BI_SERVICE]*
 
-A continuación, se presentan algunas capturas de pantalla del dashboard de Power BI o de las visualizaciones clave del proyecto:
+## 🚀 Installation & Usage (If applicable)
+To use or review this project, follow these steps:
 
-![Captura de Pantalla 1]([URL_DE_IMAGEN_DE_TU_DASHBOARD_1])
-*Describe brevemente lo que muestra esta captura.*
-
-![Captura de Pantalla 2]([URL_DE_IMAGEN_DE_TU_DASHBOARD_2])
-*Describe brevemente lo que muestra esta captura.*
-
-*Si tienes un enlace a la versión publicada en Power BI Service (si es pública):*
-Puedes interactuar con el dashboard completo aquí: [ENLACE_A_POWER_BI_SERVICE]
-
-## 🛠️ Instalación y Uso (Si aplica)
-
-Para utilizar este proyecto, sigue estos pasos:
-
-1.  **Clona el repositorio:**
+1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/contrerasramirezaxel-cloud/[Nombre de tu Proyecto].git
-    ```
-    *Asegúrate de reemplazar `[Nombre de tu Proyecto]` por el nombre real de tu repositorio.*
-2.  **[Paso 2]:** [Ej: Abre el archivo `.pbix` con Power BI Desktop.]
-3.  **[Paso 3]:** [Ej: Asegúrate de tener acceso a la base de datos SQL.]
-
-## 🤝 Contribuciones
-
-Las contribuciones son bienvenidas. Si tienes sugerencias o mejoras, no dudes en abrir un *issue* o un *pull request*.
-
-## 📞 Contacto
-
-Si tienes alguna pregunta o sugerencia, puedes contactarme en [Tu Correo Electrónico] o a través de mi [Perfil de LinkedIn]([ENLACE_A_TU_LINKEDIN]
+    git clone https://github.com/contrerasramirezaxel-cloud/[Project Name].git
